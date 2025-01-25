@@ -20,7 +20,7 @@ On Day 5, we created a **Color Palette Generator** using **HTML**, **CSS**, and 
 
 ---
 # Demo page
-Click [Here](https://ayshasanyang.github.io/Day5-Color-Palette-Generator/) to view the page
+Click [Here](https://ayshasanyang.github.io/Day-5-Color-Palette-Generator/) to view the page
 ---
 
 ## 🚀 How to Run
